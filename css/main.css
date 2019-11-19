@@ -102,17 +102,16 @@ header h2 span {
 
 #work img {
 	padding-bottom: 30px;
-	padding-left: 165px;
+	padding-left: 180px;
 	padding-right: 165px;
-	
 }
 
 #work h3 {
 	font-size: 24px;
 	line-height: 32px;
-	width: 400;
+	width: 195px;
 	margin: 0 auto;
-	padding: 0 105px;
+	padding: 0 120px;
 	text-align: center;
 }
 
